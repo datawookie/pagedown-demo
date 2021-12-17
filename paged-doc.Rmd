@@ -1,0 +1,11 @@
+---
+output:
+  demo_paged:
+    toc: true
+    self_contained: false
+knit: pagedown::chrome_print
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
